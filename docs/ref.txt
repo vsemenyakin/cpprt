@@ -1,0 +1,6 @@
+Documentation materials are all provided in Russian language in the below articles on www.habrahabr.ru:
+1. Library basic ideas (LINK).
+2. Repository structure and build system overview (LINK).
+3. Public API overview, user guides and plans for future (LINK).
+
+I will create documentation in English based on provided materials as soon as possible.

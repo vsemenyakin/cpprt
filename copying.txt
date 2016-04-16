@@ -1,0 +1,9 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+// <filename>
+//
+// Copyright (c) 2016 <author name> (<author mail>)
+//
+// Distributed under the MIT (See accompanying file LICENSE.txt or copy at
+// https://opensource.org/licenses/MIT)
+//
