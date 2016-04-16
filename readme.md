@@ -1,4 +1,4 @@
---- Introduction ---
+####--- Introduction ---
 
 CPP Runtime (cpprt) is a small library, that provides possibility to bind metadata for C++ classes and then use this data in different ways.
 
@@ -8,7 +8,7 @@ Brief overview of the library features:<br/>
 3. Access for class metadata from class objects.<br/>
 
 
---- Overview of this repository structure ---
+####--- Overview of this repository structure ---
 
 - Documentation block:<br/>
 readme.md - this file. It contains brief information about cpprt project.<br/>
