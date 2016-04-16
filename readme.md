@@ -2,31 +2,31 @@
 
 CPP Runtime (cpprt) is a small library, that provides possibility to bind metadata for C++ classes and then use this data in different ways.
 
-Brief overview of the library features:
-1. Creating objects of registered classes by string name of classes.
-2. Observing inheritance hierarchies of registered classes.
-3. Access for class metadata from class objects.
+Brief overview of the library features:<br/>
+1. Creating objects of registered classes by string name of classes.<br/>
+2. Observing inheritance hierarchies of registered classes.<br/>
+3. Access for class metadata from class objects.<br/>
 
 
 --- Overview of this repository structure ---
 
-- Documentation block:
-readme.md - this file. It contains brief information about cpprt project.
-README.cmake - instructions how to build cpprt library and other projects.
-\docs - library documentation.
+- Documentation block:<br/>
+readme.md - this file. It contains brief information about cpprt project.<br/>
+README.cmake - instructions how to build cpprt library and other projects.<br/>
+\docs - library documentation.<br/>
 
-- Library files:
-\include - library interface API (headers).
-\src - library source code.
+- Library files:<br/>
+\include - library interface API (headers).<br/>
+\src - library source code.<br/>
 
-- Additional projects:
-\examples - source code files for project examples.
-\tools - source code files for library tools.
+- Additional projects:<br/>
+\examples - source code files for project examples.<br/>
+\tools - source code files for library tools.<br/>
 
-- Build system:
-\build - empty folder, recommended to keep for building needs.
-CMakeLists.txt - file with CMake configuration.
+- Build system:<br/>
+\build - empty folder, recommended to keep for building needs.<br/>
+CMakeLists.txt - file with CMake configuration.<br/>
 
-- Miscellaneous:
-LICENCE.txt - project licence text (MIT).
-copying.txt - file with licence header template.
+- Miscellaneous:<br/>
+LICENCE.txt - project licence text (MIT).<br/>
+copying.txt - file with licence header template.<br/>
