@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\src\CPPRTRuntime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\include\cpprt\CPPRTRuntime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EEEF5F26-52C0-3ADE-908D-900517A2C665}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3117F88E-BA97-3EE9-8742-28792863FCF8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
