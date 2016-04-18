@@ -1,0 +1,9 @@
+To link prebuild cpprt library to your project staticly use next steps:
+
+1. Add path {cpprt-folder-path}\include to header search paths list compiling setting.
+{cpprt-folder-path} - path to the root folder of cpprt repository clone.
+
+2. Add path {cpprt-folder-path}\lib\{your-toolchain-or-IDE-name} to library search paths list linking setting:
+{your-toolchain-or-IDE-name} - folder with name of your toolchain compiler.
+
+3. Add "cpprt" flag to your linking settings.

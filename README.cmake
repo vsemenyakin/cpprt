@@ -4,10 +4,11 @@
 > cd {your-build-folder}
 
 2. Call CMake configuration generation, providing it with the options to select what exactly you want to build
-> cmake -G "{generator-name}" {options} ../
+> cmake -G "{generator-name}" {options} {cpprt-folder-path}
 
 {generator-name} - name of generator, that is used for creating the build configuration for your toolchain (please, see https://cmake.org/cmake/help/v3.0/manual/cmake-generators.7.html for details)
 {options} - list of option defenitions, to provide configuration generation details. The details about possibly to select options are presented below.
+{cpprt-folder-path} - path to the root folder of cpprt repository clone
 
 3. Perform a build using your toolchain by providing a build configuration generated after step 2 into this toolchain.
 
@@ -29,16 +30,16 @@ Extra settings
 --- CMake call examples ---
 
 As mentioned above, the build configuration for cpprt static library build target always generates. So, to generate build configuration for cpprt static library target only you may use the next command:
-> cmake ../
+> cmake {cpprt-folder-path}
 
 Next cmake call example presents how to generate mingw32-make build configuration (the make files) for building static library and build tools:
-> cmake -G "MinGW Makefiles" -DBUILD_TOOLS=ON ../
+> cmake -G "MinGW Makefiles" -DBUILD_TOOLS=ON {cpprt-folder-path}
 
 One more example for mingw32-make build configuration generating. Generating configuration for all targets, but the build tools:
-> cmake -G "MinGW Makefiles" -DBUILD_ALL=ON -DBUILD_TOOLS=OFF ../
+> cmake -G "MinGW Makefiles" -DBUILD_ALL=ON -DBUILD_TOOLS=OFF {cpprt-folder-path}
 
 Generating Visual Studio solution for building library and examples:
-> cmake -G "Visual Studio 14 2015" -DBUILD_EXAMPLES=ON ../
+> cmake -G "Visual Studio 14 2015" -DBUILD_EXAMPLES=ON {cpprt-folder-path}
 
 Generating build configurations using default generator for all targets, but set up building console without example class hierarchies:
-> cmake -G -DBUILD_ALL=ON -DCONSOLE_WITH_EXAMPLE=OFF ../
+> cmake -G -DBUILD_ALL=ON -DCONSOLE_WITH_EXAMPLE=OFF {cpprt-folder-path}

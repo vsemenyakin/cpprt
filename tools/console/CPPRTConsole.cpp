@@ -15,9 +15,10 @@
 #include <map>
 
 // Work with command line
-#include <iostream>
-#include <vector>
-#include <string>
+#include <iostream>		// output
+#include <cstring>		// strtok
+#include <vector>		// util
+#include <string>		// util
 
 // Test classes hierarchy
 

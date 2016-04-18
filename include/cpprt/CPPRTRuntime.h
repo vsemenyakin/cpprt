@@ -13,6 +13,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 #include <vector>
+#include <stddef.h> // for NULL constant
 
 //NB: There are several places in library, that author (Semenyakin
 // Vladimir) uses in his project. This places are marked with DEMIURG_PROJECT.

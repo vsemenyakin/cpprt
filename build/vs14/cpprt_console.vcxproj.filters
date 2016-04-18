@@ -1,105 +1,105 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\tools\console\CPPRTConsole.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\tools\console\CPPRTConsole.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QAbstractButton.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QAbstractButton.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QAbstractScrollArea.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QAbstractScrollArea.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QCheckBox.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QCheckBox.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QFrame.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QFrame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QGraphicsView.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QGraphicsView.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QLabel.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QLabel.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QObject.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QObject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QProgressBar.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QProgressBar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QPushButton.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QPushButton.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QRadioButton.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QRadioButton.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QTextEdit.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QTextEdit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QThread.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QThread.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QWidget.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QWidget.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\SmallButCompact\SmallButCompact.cpp">
+    <ClCompile Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\SmallButCompact\SmallButCompact.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QAbstractButton.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QAbstractButton.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QAbstractScrollArea.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QAbstractScrollArea.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QCheckBox.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QCheckBox.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QFrame.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QFrame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QGraphicsView.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QGraphicsView.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QLabel.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QLabel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QObject.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QObject.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QProgressBar.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QProgressBar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QPushButton.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QPushButton.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QRadioButton.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QRadioButton.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QTextEdit.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QTextEdit.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QTGUI.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QTGUI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QThread.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QThread.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\QTGUI\QWidget.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\QTGUI\QWidget.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\test\Desktop\тмп\cpprt_FINAL\current\github\examples\__example_hierarchies__\example_classes\SmallButCompact\SmallButCompact.h">
+    <ClInclude Include="D:\users\vova\programming\projects\cpprt\shared\cpprt\examples\__example_hierarchies__\example_classes\SmallButCompact\SmallButCompact.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{C35FC740-4023-3FF2-9B16-6A0268BD24CA}</UniqueIdentifier>
+      <UniqueIdentifier>{481943C6-6C95-3155-8447-850BF5B072CD}</UniqueIdentifier>
     </Filter>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{099926E2-1515-3F9C-B0FD-28CB013D4F19}</UniqueIdentifier>
+      <UniqueIdentifier>{FBEBBE0A-0F36-3658-BA3E-456615AD97FE}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
