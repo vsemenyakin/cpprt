@@ -1,7 +1,7 @@
 --- Commands to generate build configuration ---
 
-1. Move to folder, that is recommended for building execution:
-> cd {ccprt-clone-path}/build
+1. Move to folder, where you want to orginize build process. It's highly recommended to provide path without unicode symbols (CMake has a problems with such paths):
+> cd {your-build-folder}
 
 2. Call CMake configuration generation, providing it with the options to select what exactly you want to build
 > cmake -G "{generator-name}" {options} ../
